@@ -1,0 +1,50 @@
+[
+  {
+    "file": "shutter.wav",
+    "duration": 0.15,
+    "bytes": 7200,
+    "peak_dbfs": -19.83
+  },
+  {
+    "file": "EmberPaintDip.wav",
+    "duration": 0.24,
+    "bytes": 11520,
+    "peak_dbfs": -16.16
+  },
+  {
+    "file": "EmberScalePickup.wav",
+    "duration": 0.28,
+    "bytes": 13440,
+    "peak_dbfs": -15.63
+  },
+  {
+    "file": "EmberTap.wav",
+    "duration": 0.07004166666666667,
+    "bytes": 3362,
+    "peak_dbfs": -20.62
+  },
+  {
+    "file": "EmberSuccess.wav",
+    "duration": 1.18,
+    "bytes": 56640,
+    "peak_dbfs": -14.92
+  },
+  {
+    "file": "EmberBrushStroke.wav",
+    "duration": 0.28,
+    "bytes": 13440,
+    "peak_dbfs": -20.5
+  },
+  {
+    "file": "EmberScalePlace.wav",
+    "duration": 0.52,
+    "bytes": 24960,
+    "peak_dbfs": -13.98
+  },
+  {
+    "file": "EmberComplete.wav",
+    "duration": 0.535,
+    "bytes": 25680,
+    "peak_dbfs": -18.84
+  }
+]

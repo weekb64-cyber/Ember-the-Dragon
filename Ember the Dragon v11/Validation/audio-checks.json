@@ -1,0 +1,42 @@
+[
+  {
+    "file": "shutter.wav",
+    "seconds": 0.15,
+    "peak": 3340
+  },
+  {
+    "file": "EmberPaintDip.wav",
+    "seconds": 0.24,
+    "peak": 5100
+  },
+  {
+    "file": "EmberScalePickup.wav",
+    "seconds": 0.28,
+    "peak": 5417
+  },
+  {
+    "file": "EmberTap.wav",
+    "seconds": 0.07,
+    "peak": 3052
+  },
+  {
+    "file": "EmberSuccess.wav",
+    "seconds": 1.18,
+    "peak": 5882
+  },
+  {
+    "file": "EmberBrushStroke.wav",
+    "seconds": 0.28,
+    "peak": 3094
+  },
+  {
+    "file": "EmberScalePlace.wav",
+    "seconds": 0.52,
+    "peak": 6553
+  },
+  {
+    "file": "EmberComplete.wav",
+    "seconds": 0.535,
+    "peak": 3745
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "source_meshes_match_shipped_usdz": true,
+  "left": {
+    "cap_samples": 64,
+    "maximum_cap_above_crown_m": -0.005662140207810473,
+    "minimum_cap_below_crown_m": 0.005662140207810473
+  },
+  "right": {
+    "cap_samples": 64,
+    "maximum_cap_above_crown_m": -0.005736059361281631,
+    "minimum_cap_below_crown_m": 0.005736059361281631
+  },
+  "preview": "Software geometry rendering, not RealityKit lighting or on-device verification"
+}

@@ -1,0 +1,2 @@
+pinch: all boundary pixels fully transparent
+fist: all boundary pixels fully transparent

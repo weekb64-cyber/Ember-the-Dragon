@@ -1,0 +1,8 @@
+{
+  "sound": "Soft brush stroke, revised",
+  "duration_seconds": 0.28,
+  "texture": "Two-stage low-pass filtered air, smooth bell-shaped envelope; removed rapid grain modulation",
+  "rms_dbfs": -33.98,
+  "peak_dbfs": -20.5,
+  "zero_endpoints": true
+}

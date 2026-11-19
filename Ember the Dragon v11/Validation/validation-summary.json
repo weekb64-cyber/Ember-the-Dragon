@@ -1,0 +1,55 @@
+{
+  "gameplay_checks": 452,
+  "source_checks": [
+    "visionOS 26.5 device",
+    "visionOS 26.5 Simulator"
+  ],
+  "full_xcode_build": "Not verified",
+  "headset_runtime": "Not verified",
+  "ui_review": "macOS layout previews; native controls and visionOS glass require headset review",
+  "hand_alpha_edges": "passed for pinch and fist",
+  "audio": [
+    {
+      "file": "shutter.wav",
+      "seconds": 0.15,
+      "peak": 3340
+    },
+    {
+      "file": "EmberPaintDip.wav",
+      "seconds": 0.24,
+      "peak": 5100
+    },
+    {
+      "file": "EmberScalePickup.wav",
+      "seconds": 0.28,
+      "peak": 5417
+    },
+    {
+      "file": "EmberTap.wav",
+      "seconds": 0.07,
+      "peak": 3052
+    },
+    {
+      "file": "EmberSuccess.wav",
+      "seconds": 1.18,
+      "peak": 5882
+    },
+    {
+      "file": "EmberBrushStroke.wav",
+      "seconds": 0.28,
+      "peak": 3094
+    },
+    {
+      "file": "EmberScalePlace.wav",
+      "seconds": 0.52,
+      "peak": 6553
+    },
+    {
+      "file": "EmberComplete.wav",
+      "seconds": 0.535,
+      "peak": 3745
+    }
+  ],
+  "version": "1.11 (11)",
+  "move_bar": "Bounds-based front-rim placement and expanded grab area; 40 regression assertions across sizes and offsets. Headset visual check pending."
+}
